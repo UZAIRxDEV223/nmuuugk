@@ -23,13 +23,13 @@ apt update && apt upgrade && apt install git -y && git clone https://github.com/
 ## Screenshots
 
 ### Loading Animation
-![Loading Animation](images/1.png)
+![Loading Animation](1.png)
 
 ### Information Gathering
-![Information Gathering](images/2.png)
+![Information Gathering](2.png)
 
 ### Professional Data Display
-![Professional Data Display](images/3.png)
+![Professional Data Display](3.png)
 
 ## Important Note
 
